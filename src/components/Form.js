@@ -20,7 +20,6 @@ const Form = () => {
 
   return (
     <div className="form">
-      {/* Move the onSubmit handler to the <form> element */}
       <form ref={form} onSubmit={sendEmail}>
         <label>Your Name</label>
         <input type="text" name="your_name" />
