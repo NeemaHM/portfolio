@@ -8,7 +8,7 @@ const Form = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_10i6wsq', 'template_p1e5rr6', form.current, 'Rlsdi5Gbkg7jEoXEuoYcP')
+    emailjs.sendForm('service_10i6wsq', 'template_p1e5rr6', form.current, 'Hv2HIY_30fZirzoSr')
       .then((result) => {
         console.log(result.text);
         alert('Email Sent!');
