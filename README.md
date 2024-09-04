@@ -1,5 +1,7 @@
 **REACT.JS PORTFOLIO SAMPLE**
-NOTE: WORK IN PRGRESS,
+  
+  NOTE: WORK IN PROGRESS
+  
 **OVERVIEW**	
 - This project is a (SAMPLE) personal portfolio built with React.js and JavaScript. It serves as a showcase of my skills and projects while practicing and demonstrating my proficiency in React.js and modern JavaScript practices.
 
